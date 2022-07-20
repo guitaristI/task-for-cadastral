@@ -1,38 +1,53 @@
-.App {
+.App{
+  margin: 0 auto;
+  max-width: 1140px;
+  padding: 0 20px;
+}
+.search{
+  display: flex;
+  margin-bottom: 30px;
+}
+.btn-primary{
+  margin-left: 5px;
+}
+.search__input{
+  padding: 5px;
+  width: 100%;
+}
+.main{
+  margin: 50px 0;
+}
+.main__preloader{
+  margin-top: 20px;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main img{
+  max-width: 50px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.cadast-number{
+  cursor: pointer;
+  min-width: 200px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.cadast-number:hover{
+  font-weight: 500;
+  text-decoration: underline;
 }
-
-.App-link {
-  color: #61dafb;
+.my-modal{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  display: none;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.my-modal__content{
+  padding: 25px;
+  background: white;
+}
+.encumbrance p{
+  display: inline-block;
+}
+.modal span{
+  font-weight: bold;
 }
