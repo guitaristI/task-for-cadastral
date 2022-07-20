@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/task-for-cadastral/static/css/main.f4f29efb.css",
-    "main.js": "/task-for-cadastral/static/js/main.edddadfa.js",
+    "main.js": "/task-for-cadastral/static/js/main.4b2c4c69.js",
     "static/js/787.117b60ce.chunk.js": "/task-for-cadastral/static/js/787.117b60ce.chunk.js",
     "static/media/hug.gif": "/task-for-cadastral/static/media/hug.757857ce13a4e4e598e4.gif",
     "index.html": "/task-for-cadastral/index.html",
     "main.f4f29efb.css.map": "/task-for-cadastral/static/css/main.f4f29efb.css.map",
-    "main.edddadfa.js.map": "/task-for-cadastral/static/js/main.edddadfa.js.map",
+    "main.4b2c4c69.js.map": "/task-for-cadastral/static/js/main.4b2c4c69.js.map",
     "787.117b60ce.chunk.js.map": "/task-for-cadastral/static/js/787.117b60ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4f29efb.css",
-    "static/js/main.edddadfa.js"
+    "static/js/main.4b2c4c69.js"
   ]
 }
